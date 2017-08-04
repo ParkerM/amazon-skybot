@@ -1,8 +1,7 @@
 # amazon-skybot
 Amazon plugin for [Skybot IRC bot](https://github.com/rmmh/skybot)
 
-### Features:
-* Automatically parse amazon URLs and respond with product name
+#### Features:
 * Search for products
     * Usage: ``.amazon cool shoes`` or ``.a cool shoes``
     * Returns a description and a shortened affiliate referall link
