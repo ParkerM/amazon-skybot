@@ -1,0 +1,37 @@
+{
+  "connections":
+  {
+    "local":
+    {
+      "server": "local",
+      "nick": "skybot",
+      "channels": ["#test"]
+    }
+  },
+  "prefix": ".",
+  "disabled_plugins": [],
+  "disabled_commands": [],
+  "acls": {},
+  "api_keys":
+  {
+	"amazon":
+	{
+		"AWS_KEY" : "...",
+		"SECRET_KEY" : "...",
+		"ASSOCIATE_TAG" : "...",
+		"bitly": "..."
+	}
+  },
+  "censored_strings":
+  [
+    "DCC SEND",
+    "1nj3ct",
+    "thewrestlinggame",
+    "startkeylogger",
+    "hybux",
+    "\\0",
+    "\\x01",
+    "!coz",
+    "!tell /x"
+  ]
+}
